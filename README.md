@@ -1,10 +1,9 @@
-# Hi 👋 My name is Nattapol Sonthirak
+My name is Nattapol Sonthirak
 
 Currently learning to become a frontend developer, starting with studying React and Next.js
 
-- 📍 I'm based in Pathum Thani
-- 📫 You can contact me at giga12123@gmail.com
-- 🌐 Website Portfolio : [https://portfolio-not-nine.vercel.app/](https://portfolio-not-nine.vercel.app/)
+- 📍 I'm based in Rayong
+- 📫 You can contact me at pattarapon.makoeydee@gmail.com
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
